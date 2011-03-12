@@ -1,12 +1,12 @@
 /**
  * Proyecto Fin Carrera
- * Robot autÃ³nomo clasificador inspirado en el comportamiento de ciertas especies de hormigas
+ * Robot autónomo clasificador inspirado en el comportamiento de ciertas especies de hormigas
  * 
  * ALUMNO: Roque Caballero Navarro
- * DIRECTOR: Ã�ngel PÃ©rez de Madrid y Pablo
- * DEPARTAMENTO: Sistemas de ComunicaciÃ³n y Control
+ * DIRECTOR: Ángel Pérez de Madrid y Pablo
+ * DEPARTAMENTO: Sistemas de Comunicación y Control
  *
- * ETSI INFORMÃ�TICA
+ * ETSI INFORMÁTICA
  * UNED
  *
  * Creado el 07.02.2011 a las 17:09:58
